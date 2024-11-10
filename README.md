@@ -5,18 +5,18 @@ MediBot is an AI-powered medical chatbot that assists users with information on 
 
 ## Features
 
-    Interactive Chat Interface: Users can interact with MediBot via a simple and intuitive web interface.
-    Symptom-Based Search: Provides medical information based on symptoms input by the user.
-    Embeddings for Fast Retrieval: Uses Pinecone for efficient storage and retrieval of medical information embeddings.
-    Customizable Knowledge Base: Easily update the chatbot’s knowledge with additional medical data.
+Interactive Chat Interface: Users can interact with MediBot via a simple and intuitive web interface.
+Symptom-Based Search: Provides medical information based on symptoms input by the user.
+Embeddings for Fast Retrieval: Uses Pinecone for efficient storage and retrieval of medical information embeddings.
+Customizable Knowledge Base: Easily update the chatbot’s knowledge with additional medical data.
 
 ## Tech Stack
 
-    Python: Core programming language used for the application.
-    LangChain: Manages language model workflows and integrates AI tools.
-    Flask: Web framework used to create a simple web interface for the chatbot.
-    Pinecone: Vector database used for fast and scalable embedding storage and retrieval.
-    OpenAI GPT: Model used for generating responses based on user input.
+Python: Core programming language used for the application.
+LangChain: Manages language model workflows and integrates AI tools.
+Flask: Web framework used to create a simple web interface for the chatbot.
+Pinecone: Vector database used for fast and scalable embedding storage and retrieval.
+OpenAI GPT: Model used for generating responses based on user input.
 
 ## Getting Started
     Follow these steps to set up and run the MediBot project on your local machine.
